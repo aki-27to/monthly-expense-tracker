@@ -1,72 +1,28 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# monthly-expense-tracker" 
-"# monthly-expense-tracker" 
+Create React Appを使用したプロジェクトの始め方
+このプロジェクトは、Create React Appを使用して構築されました。
+利用可能なスクリプト
+プロジェクトディレクトリで以下のコマンドを実行できます：
+npm start
+開発モードでアプリを実行します。
+ブラウザで http://localhost:3000 を開いて表示できます。
+変更を加えると、ページは自動的に再読み込みされます。
+コンソールに構文エラーが表示されることもあります。
+npm test
+対話型の監視モードでテストランナーを起動します。
+テストの実行について詳しくは、こちらのセクションをご覧ください。
+npm run build
+本番用のアプリを build フォルダにビルドします。
+Reactを本番モードで正しくバンドルし、最高のパフォーマンスのためにビルドを最適化します。
+ビルドは圧縮され、ファイル名にはハッシュが含まれます。
+これでアプリをデプロイする準備が整いました！
+デプロイについて詳しくは、こちらのセクションをご覧ください。
+npm run eject
+注意：これは一方向の操作です。一度 eject すると、元に戻せません！
+ビルドツールと設定の選択に満足できない場合は、いつでも eject できます。このコマンドは、プロジェクトから単一のビルド依存関係を削除します。
+代わりに、すべての設定ファイルと推移的依存関係（webpack、Babel、ESLintなど）をプロジェクトに直接コピーするので、それらを完全に制御できます。eject 以外のすべてのコマンドは引き続き動作しますが、コピーされたスクリプトを指すようになるので、必要に応じて調整できます。この時点で、あなたは自分自身で管理することになります。
+eject を使用する必要は全くありません。キュレーションされた機能セットは小規模から中規模のデプロイメントに適しており、この機能を使用する義務はありません。ただし、準備ができたときにカスタマイズできなければ、このツールは役に立たないことも理解しています。
+詳細情報
+Create React Appのドキュメントで詳細を学ぶことができます。
+Reactを学ぶには、Reactのドキュメントをチェックしてください。
+コード分割、バンドルサイズの分析、プログレッシブWebアプリの作成、高度な設定、デプロイメントなどの詳細なトピックについては、Create React Appのドキュメントの該当セクションを参照してください。
+npm run build が圧縮に失敗する場合のトラブルシューティングについても、ドキュメントに情報があります。
